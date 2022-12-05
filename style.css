@@ -1,0 +1,14 @@
+body {
+    line-height: 1;
+}
+p {
+    margin-bottom: 1px;
+}
+.contact-info{
+    position: relative;
+    left:10%
+}
+
+* {
+    font-family:'Roboto'
+}
